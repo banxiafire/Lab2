@@ -90,7 +90,7 @@ You'll notice that your repository already has two branches called `alice` and `
 
 Now, you are almost ready to share your recipe with the remote! 
 
-# TASK 3
+# TASK 3 
 
 - [ ] Checkout a new branch called `task_3`.
 - [ ] Commit any changes that you want to `recipe.md` to further improve the recipe.
@@ -101,7 +101,7 @@ Now, you are almost ready to share your recipe with the remote!
 Since others will also be making pull requests, we won't *actually* accept any of them for now, but
 you'll get lots of practice with pull requests in the next task and beyond!
 
-We're now ready to dive into a collaborative coding challenge.
+We're now ready to dive into a collaborative coding challenge. 11111111111111111111111
 
 Proceed to the second lab activity on Quercus!
 
